@@ -1,6 +1,6 @@
 Infusion-WoW-Launcher
 =====================
-This was once supposed to be a multiple game launcher for private servers, now it is just a simple WoW Launcher.
+This was once supposed to be a multi game launcher for private servers, now it is just a simple WoW Launcher.
 
 Screenshot:
 
